@@ -1,0 +1,409 @@
+2018-01-03 18:37:58,717 - INFO - app.collect - username : {} , ip: {} , port: {}
+2018-01-03 18:38:57,270 - INFO - app.collect - username : {} , ip: {} , port: {}
+2018-01-03 18:39:35,897 - INFO - app.collect - username : {} , ip: {} , port: {}
+2018-01-03 18:39:55,184 - INFO - app.collect - username : {} , ip: {} , port: {}
+2018-01-03 18:40:25,383 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:40:25,383 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:40:54,242 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:40:54,243 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:41:00,173 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:41:00,174 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:41:20,750 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:41:20,751 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:41:28,981 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:41:28,981 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:46:00,490 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:46:00,491 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:51:12,291 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:51:24,303 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:52:14,655 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:52:14,656 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 18:52:29,295 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 18:52:29,296 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:06:32,069 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:11:08,657 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:14:22,364 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:15:01,200 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:15:37,418 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:16:51,497 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:17:48,270 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:17:48,289 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:18:10,417 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:18:10,424 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:18:45,667 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:18:45,684 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:29:01,029 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:29:01,035 - ERROR - app.collect - 'list' object has no attribute 'cpu_threshold'
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/collect.py", line 57, in process
+    clients.cpu_threshold = cpu_threshold
+AttributeError: 'list' object has no attribute 'cpu_threshold'
+2018-01-03 19:29:14,355 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:29:14,361 - ERROR - app.collect - 'list' object has no attribute 'cpu_threshold'
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/collect.py", line 57, in process
+    clients.cpu_threshold = cpu_threshold
+AttributeError: 'list' object has no attribute 'cpu_threshold'
+2018-01-03 19:29:22,314 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:29:22,320 - ERROR - app.collect - 'list' object has no attribute 'cpu_threshold'
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/collect.py", line 57, in process
+    clients.cpu_threshold = cpu_threshold
+AttributeError: 'list' object has no attribute 'cpu_threshold'
+2018-01-03 19:30:20,463 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:30:20,469 - ERROR - app.collect - 'list' object has no attribute 'cpu_threshold'
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/collect.py", line 57, in process
+    clients.cpu_threshold = cpu_threshold
+AttributeError: 'list' object has no attribute 'cpu_threshold'
+2018-01-03 19:30:50,554 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:31:05,461 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:31:05,468 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:31:24,955 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:33:39,497 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:33:39,513 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:34:10,825 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:34:10,832 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:34:47,873 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:34:47,879 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:35:13,973 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:35:14,069 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:35:40,700 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:35:40,712 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:35:54,615 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:36:13,897 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:37:08,364 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:37:08,818 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:37:25,983 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:38:20,254 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 19:38:54,626 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 19:38:54,644 - INFO - app.collect - username : jahanzaib , ip: 192.168.1.102 , port: 22
+2018-01-03 20:14:12,957 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 20:17:58,432 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 20:18:17,462 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 20:18:52,637 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-03 21:05:11,346 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:39:49,255 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:46:22,622 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:46:52,276 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:47:23,672 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:50:03,052 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:51:47,717 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:53:00,286 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:54:41,057 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:56:24,029 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:56:48,150 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:57:02,771 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:57:16,238 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 12:58:40,266 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:04:24,144 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:05:21,314 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:05:35,577 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:06:42,018 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:07:14,442 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:07:37,904 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:08:19,193 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:08:38,378 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:09:44,022 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:11:45,798 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:12:44,236 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:13:01,351 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:13:25,197 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:13:45,585 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:14:19,485 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:14:47,687 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:15:41,439 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:18:05,585 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:24:53,431 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:25:14,145 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:25:33,352 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:25:38,596 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:25:43,031 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:25:46,999 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:31:15,856 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:31:19,429 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:33:53,265 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:36:39,817 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:37:05,584 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:37:59,236 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:38:10,018 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:38:32,373 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 14:54:16,076 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:23:28,197 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:23:40,634 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:24:57,041 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:28:36,220 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:29:09,511 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:29:58,063 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:30:26,897 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:31:15,090 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:32:10,289 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:43:44,514 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 16:44:12,972 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:02:45,120 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:05:35,663 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:06:10,479 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:08:45,421 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:10:04,085 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:13:25,840 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:14:54,422 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:44:44,928 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:47:39,461 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:48:42,177 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:49:36,015 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:49:57,300 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:52:18,625 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:53:35,843 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:55:15,613 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:56:46,846 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 17:57:26,049 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:24:20,121 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:31:49,509 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:32:46,178 - INFO - app.collect - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:40:39,202 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:40:39,478 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:40:39,591 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:40:46,912 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.101
+2018-01-04 18:42:19,970 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:42:20,204 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:42:20,317 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:42:27,894 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.101
+2018-01-04 18:42:27,960 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 18:43:33,803 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:43:34,049 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:43:34,162 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:43:42,074 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.101
+2018-01-04 18:43:42,112 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 18:43:59,458 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:43:59,708 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:43:59,822 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:44:06,976 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.101
+2018-01-04 18:44:07,043 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 18:44:25,055 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:44:25,281 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:44:25,392 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:44:32,639 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.101
+2018-01-04 18:44:32,705 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 18:44:43,613 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:44:43,870 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:44:43,983 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:44:44,986 - INFO - app.runner - Everything is good not need to send alert email for ip 192.168.1.101
+2018-01-04 18:44:45,102 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 18:45:22,956 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 18:45:23,214 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 18:45:23,334 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 18:45:24,337 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.101
+2018-01-04 18:45:24,453 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 19:07:11,064 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 19:07:11,380 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 19:07:11,498 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 19:07:12,532 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.101
+2018-01-04 19:07:12,648 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.106 , port: 22
+2018-01-04 19:08:02,811 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 19:08:03,061 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 19:08:03,174 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 19:08:04,189 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.101
+2018-01-04 19:08:04,305 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.106 , port: 22
+2018-01-04 19:08:04,413 - INFO - app.runner - ssh connected with 192.168.1.106
+2018-01-04 19:08:04,598 - INFO - app.runner - data collected from 192.168.1.106
+2018-01-04 19:08:05,650 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.106
+2018-01-04 19:08:05,766 - INFO - app.runner - Machine data collector completed its processing
+2018-01-04 19:08:43,830 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-04 19:08:44,085 - INFO - app.runner - ssh connected with 192.168.1.101
+2018-01-04 19:08:44,199 - INFO - app.runner - data collected from 192.168.1.101
+2018-01-04 19:08:45,204 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.101
+2018-01-04 19:08:45,320 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.106 , port: 22
+2018-01-04 19:08:45,447 - INFO - app.runner - ssh connected with 192.168.1.106
+2018-01-04 19:08:45,559 - INFO - app.runner - data collected from 192.168.1.106
+2018-01-04 19:08:53,684 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.106
+2018-01-04 19:08:59,957 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.106
+2018-01-04 19:09:00,073 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 15:20:19,599 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-05 15:21:41,099 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.101 , port: 22
+2018-01-05 15:22:29,417 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:22:29,675 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 15:22:30,138 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 15:22:31,254 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.104
+2018-01-05 15:22:31,321 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 15:22:31,556 - INFO - app.runner - ssh connected with 192.168.1.102
+2018-01-05 15:22:31,958 - INFO - app.runner - data collected from 192.168.1.102
+2018-01-05 15:22:33,043 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.102
+2018-01-05 15:22:33,160 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 15:22:35,470 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 15:22:35,966 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 15:22:44,001 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 15:22:51,611 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.105
+2018-01-05 15:22:51,678 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 15:46:06,167 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:46:06,187 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 15:46:06,199 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 15:46:06,210 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 15:49:17,246 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:49:17,267 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 15:49:17,278 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 15:49:17,290 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 15:49:36,638 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:49:36,660 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 15:49:36,672 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 15:49:36,685 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 15:52:34,251 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:53:01,876 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:53:01,887 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:56:37,694 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:56:37,920 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 15:56:38,034 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 15:57:11,231 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 15:57:11,449 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 15:57:11,563 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 15:57:12,632 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.104
+2018-01-05 15:57:12,750 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 15:57:12,969 - INFO - app.runner - ssh connected with 192.168.1.102
+2018-01-05 15:57:13,189 - INFO - app.runner - data collected from 192.168.1.102
+2018-01-05 15:57:14,258 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.102
+2018-01-05 15:57:14,376 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 15:57:15,378 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 15:57:15,630 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 15:57:23,740 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 15:57:23,858 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:36:57,352 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:37:16,197 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:40:07,877 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:41:11,868 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:43:08,011 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:46:41,076 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:47:02,213 - ERROR - app.runner - [Errno 11] Resource temporarily unavailable
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 50, in start_collection
+    raise Exception(e)
+Exception: [Errno 11] Resource temporarily unavailable
+2018-01-05 20:47:02,216 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 20:47:02,440 - INFO - app.runner - ssh connected with 192.168.1.102
+2018-01-05 20:47:03,071 - INFO - app.runner - data collected from 192.168.1.102
+2018-01-05 20:47:04,148 - ERROR - app.runner - could not convert string to float: us, 
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 27, in start_runner
+    stats, client, cpu, memory = handle_response(client_id, output)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 74, in handle_response
+    cpu = float(output[0])
+ValueError: could not convert string to float: us, 
+2018-01-05 20:47:04,149 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:47:04,362 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:47:04,577 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:47:13,372 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:47:13,373 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:47:57,014 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:48:18,138 - ERROR - app.runner - [Errno 11] Resource temporarily unavailable
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 50, in start_collection
+    raise Exception(e)
+Exception: [Errno 11] Resource temporarily unavailable
+2018-01-05 20:48:18,141 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 20:48:18,373 - INFO - app.runner - ssh connected with 192.168.1.102
+2018-01-05 20:48:18,658 - INFO - app.runner - data collected from 192.168.1.102
+2018-01-05 20:48:19,755 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.102
+2018-01-05 20:48:19,756 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:48:19,997 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:48:20,228 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:48:28,259 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:48:28,260 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:49:15,807 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.107 , port: 22
+2018-01-05 20:49:36,939 - ERROR - app.runner - [Errno 11] Resource temporarily unavailable
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 50, in start_collection
+    raise Exception(e)
+Exception: [Errno 11] Resource temporarily unavailable
+2018-01-05 20:49:36,942 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 20:49:37,164 - INFO - app.runner - ssh connected with 192.168.1.102
+2018-01-05 20:49:37,464 - INFO - app.runner - data collected from 192.168.1.102
+2018-01-05 20:49:38,568 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.102
+2018-01-05 20:49:38,569 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:49:39,315 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:49:39,434 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:49:48,431 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:49:48,432 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:50:34,710 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 20:50:34,988 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 20:50:35,299 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 20:50:42,919 - INFO - app.runner - Alert email for cpu has been sent for ip 192.168.1.104
+2018-01-05 20:50:42,920 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.107 , port: 22
+2018-01-05 20:51:04,022 - ERROR - app.runner - [Errno 11] Resource temporarily unavailable
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 50, in start_collection
+    raise Exception(e)
+Exception: [Errno 11] Resource temporarily unavailable
+2018-01-05 20:51:04,024 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:51:04,292 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:51:04,506 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:51:12,441 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:51:12,442 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:54:55,577 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 20:54:55,783 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 20:54:55,896 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 20:54:56,923 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.104
+2018-01-05 20:54:56,923 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.107 , port: 22
+2018-01-05 20:55:17,946 - INFO - app.runner - Client is down or make sure ssh server is installed at client side.
+2018-01-05 20:55:17,947 - ERROR - app.runner - [Errno 11] Resource temporarily unavailable
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 53, in start_collection
+    raise Exception(e)
+Exception: [Errno 11] Resource temporarily unavailable
+2018-01-05 20:55:17,949 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:55:18,236 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:55:18,461 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:55:27,470 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:55:27,471 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:57:39,711 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 20:57:39,933 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 20:57:40,045 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 20:57:41,120 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.104
+2018-01-05 20:57:41,120 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.107 , port: 22
+2018-01-05 20:58:02,196 - INFO - app.runner - Client having ip {} is down OR make sure ssh server is installed at client side.
+2018-01-05 20:58:02,197 - ERROR - app.runner - 'NoneType' object has no attribute 'format'
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 51, in start_collection
+    "Client having ip {} is down OR make sure ssh server is"
+AttributeError: 'NoneType' object has no attribute 'format'
+2018-01-05 20:58:02,199 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:58:02,439 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:58:02,665 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:58:10,761 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:58:10,762 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 20:58:32,344 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 20:58:32,565 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 20:58:32,677 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 20:58:33,730 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.104
+2018-01-05 20:58:33,730 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.107 , port: 22
+2018-01-05 20:58:54,773 - INFO - app.runner - Client having ip {} is down OR make sure ssh server is installed at client side.
+2018-01-05 20:58:54,774 - ERROR - app.runner - 'NoneType' object has no attribute 'format'
+Traceback (most recent call last):
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 26, in start_runner
+    client_id, ip, port, username, password)
+  File "/mnt/j/Jahanzaib_Home/workspace/crossover/project1/app/runner.py", line 51, in start_collection
+    "Client having ip {} is down OR make sure ssh server is"
+AttributeError: 'NoneType' object has no attribute 'format'
+2018-01-05 20:58:54,776 - INFO - app.runner - processing information for username : sarmad , ip: 192.168.1.105 , port: 22
+2018-01-05 20:58:55,071 - INFO - app.runner - ssh connected with 192.168.1.105
+2018-01-05 20:58:55,477 - INFO - app.runner - data collected from 192.168.1.105
+2018-01-05 20:59:04,038 - INFO - app.runner - Alert email for memory has been sent for ip 192.168.1.105
+2018-01-05 20:59:04,040 - INFO - app.runner - Machine data collector completed its processing
+2018-01-05 23:02:10,911 - INFO - app.runner - processing information for username : jahanzaib , ip: 192.168.1.104 , port: 22
+2018-01-05 23:02:11,276 - INFO - app.runner - ssh connected with 192.168.1.104
+2018-01-05 23:02:11,504 - INFO - app.runner - data collected from 192.168.1.104
+2018-01-05 23:02:12,540 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.104
+2018-01-05 23:02:12,541 - INFO - app.runner - processing information for username : crossover , ip: 192.168.1.102 , port: 22
+2018-01-05 23:02:12,696 - INFO - app.runner - ssh connected with 192.168.1.102
+2018-01-05 23:02:12,882 - INFO - app.runner - data collected from 192.168.1.102
+2018-01-05 23:02:13,912 - INFO - app.runner - Everything is good no need to send an alert email for ip 192.168.1.102
+2018-01-05 23:02:13,913 - INFO - app.runner - Machine data collector completed its processing
