@@ -1,5 +1,7 @@
 # MachineStatCollector #
 
+What it is ?
+This project is used to get client machine's statistics through ssh (cpu_usage, memory_usage, uptime) over the intranet and save stats in relational database and also alert user if threshold reached.
 
 ## Prerequisites or Dependencies are: ##
 >1. OS Linux  or for windows use bash for linux 
