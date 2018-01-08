@@ -1,12 +1,13 @@
-#MachineStatCollector
+# MachineStatCollector #
 
-##Prerequisites or Dependencies are:
+
+## Prerequisites or Dependencies are: ##
 >1. OS Linux  or for windows use bash for linux 
-1. Python 2.7
-2. Postgresql installed
+>2. Python 2.7
+>3. Postgresql installed
 
 
-##Project Setup
+## Project Setup ##
 >1. Clone MachineStatCollector project 
 
 >2. Move to source directory
@@ -37,13 +38,13 @@
 	```tail -f collect.log```
 
 
-##Assumptions:
+## Assumptions: ##
 Client should be accessable by username and password not by SSH KEY.
 Client was on linux as I have only tested on linux system.
 Project server side is running on linux too. 
 
-##Requirements Not Covered in project.
+## Requirements Not Covered in project. ##
 Windows client no covered,	and also encryption/decryption not covered as i am communicating through ssh by using paramiko and its already encrypted.
 
-##Feedback:
+## Feedback: ##
 Its really good and different type of assignment but there should be sample smtp client credentials provided by crossover so we set that credentails in settings.ini.  
